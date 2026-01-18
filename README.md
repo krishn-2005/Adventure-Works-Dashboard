@@ -1,5 +1,4 @@
 🚲 AdventureWorks: End-to-End Business Intelligence Solution
-!(https://img.shields.io/badge/Power_BI-Desktop-yellow?style=flat&logo=powerbi) !(https://img.shields.io/badge/DAX-Advanced-green) !(https://img.shields.io/badge/Data_Modeling-Snowflake_Schema-orange)
 
 📖 Project Overview
 This project is an advanced end-to-end Business Intelligence solution designed for AdventureWorks, a global manufacturing company. The goal was to transform raw sales, returns, and customer data into an interactive, actionable dashboard for executive decision-making.
